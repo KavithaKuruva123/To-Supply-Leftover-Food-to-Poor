@@ -1,0 +1,23 @@
+// Venue__c Custom Object
+{
+  "apiName": "Venue__c",
+  "label": "Venue",
+  "pluralLabel": "Venues",
+  "fields": [
+    {
+      "apiName": "Venue_Name__c",
+      "label": "Venue Name",
+      "dataType": "Text"
+    },
+    {
+      "apiName": "Venue_Address__c",
+      "label": "Venue Address",
+      "dataType": "Text"
+    },
+    {
+      "apiName": "Venue_Contact__c",
+      "label": "Contact Information",
+      "dataType": "Phone"
+    }
+  ]
+}

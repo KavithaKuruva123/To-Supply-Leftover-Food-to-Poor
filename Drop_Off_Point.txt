@@ -1,0 +1,23 @@
+// Drop_Off_Point__c Custom Object
+{
+  "apiName": "Drop_Off_Point__c",
+  "label": "Drop-Off Point",
+  "pluralLabel": "Drop-Off Points",
+  "fields": [
+    {
+      "apiName": "DropOff_Name__c",
+      "label": "Drop-Off Name",
+      "dataType": "Text"
+    },
+    {
+      "apiName": "Location__c",
+      "label": "Location",
+      "dataType": "Text"
+    },
+    {
+      "apiName": "Capacity__c",
+      "label": "Capacity",
+      "dataType": "Number"
+    }
+  ]
+}

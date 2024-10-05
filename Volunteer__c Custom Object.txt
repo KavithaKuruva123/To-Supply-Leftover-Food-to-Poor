@@ -1,0 +1,23 @@
+// Volunteer__c Custom Object
+{
+  "apiName": "Volunteer__c",
+  "label": "Volunteer",
+  "pluralLabel": "Volunteers",
+  "fields": [
+    {
+      "apiName": "Volunteer_Name__c",
+      "label": "Volunteer Name",
+      "dataType": "Text"
+    },
+    {
+      "apiName": "Volunteer_Contact__c",
+      "label": "Volunteer Contact",
+      "dataType": "Phone"
+    },
+    {
+      "apiName": "Availability__c",
+      "label": "Availability",
+      "dataType": "Text"
+    }
+  ]
+}
